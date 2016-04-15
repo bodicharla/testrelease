@@ -3,7 +3,7 @@
   <groupId>com.metricstream.app</groupId>
   <artifactId>testrelease</artifactId>
   <packaging>jar</packaging>
-  <version>1.3</version>
+  <version>1.4-SNAPSHOT</version>
   <name>testrelease</name>
   <url>http://maven.apache.org</url>
   <dependencies>
