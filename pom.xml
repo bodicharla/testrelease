@@ -21,6 +21,11 @@
           <name>Haris-MBP-snapshots</name>
           <url>http://localhost:8081/artifactory/libs-snapshot-local</url>
       </snapshotRepository>
+      <repository>
+          <id>central</id>
+          <name>Haris-MBP-releases</name>
+          <url>http://localhost:8081/artifactory/libs-release-local</url>
+      </repository>
   </distributionManagement>
   
   <build>
